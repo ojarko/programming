@@ -11,3 +11,5 @@ touch ... - stwórz nowy plik
 ... commit -m "" - opisujesz jakie zmiany dodalas w tej wersji
 ... push - wysylasz zmiany
 ... pull - pobierasz najnowsza wesje
+
+POCZYTAĆ O TYPACH ZMIENNYCH
